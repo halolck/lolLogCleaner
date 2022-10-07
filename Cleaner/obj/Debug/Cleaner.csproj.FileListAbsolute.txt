@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\User\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\User\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.Form1.resources
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
+C:\Users\User\source\repos\Cleaner\Cleaner\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\User\source\repos\Cleaner\Cleaner\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CopyComplete
+C:\Users\User\source\repos\Cleaner\Cleaner\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.Fody.CopyLocal.cache
